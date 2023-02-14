@@ -75,7 +75,7 @@ main {
 
 .main__upper-section {
     position: fixed;
-    top: 0;
+    top: .5em;
     width: 100%;
     height: max-content;
     padding: 10px;
@@ -191,7 +191,7 @@ main {
     background: var(--lighten-yellow);
 }
 .main__display-name {
-    font-size: .8rem;
+    font-size: .65rem;
 }
 .game-board__field [data-field-turn] {
     transition: all .5s ease;
@@ -336,6 +336,7 @@ main {
     justify-content: center;
     align-items: center;
     gap: 1em;
+    width: 100%;
 }
 .result-conveyer__reset-btn {
     width: 25%;
@@ -419,6 +420,10 @@ main {
 
     .main__upper-section {
         top: 2em;
+    }
+
+    .main__display-name {
+        font-size: .8rem;
     }
 
     .game-initializer {
