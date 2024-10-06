@@ -5,18 +5,18 @@
 
 ## **Description**
 
-- Built as part of The Odin Project, to play the game [click here](https://0xabdulkhalid.github.io/tic-tac-toe/)
+- Built as part of The Odin Project, to play the game [click here](https://0xabdulkhaliq.github.io/tic-tac-toe/)
 - The purpose of the project was to use the Module pattern and the Factory Pattern to build and design objects to incorporate game logic
 - The Game offers a Player vs Player game mode
 
 ## **Installation**
 
 > **Note** 
->> A live deployment of [`Tic-tac-toe`](https://0xabdulkhalid.github.io/tic-tac-toe/) is available on GitHub pages, check it out without need of installation
+>> A live deployment of [`Tic-tac-toe`](https://0xabdulkhaliq.github.io/tic-tac-toe/) is available on GitHub pages, check it out without need of installation
 
 For those that would like to run the application and/or edit its source code on their local computer, follow the steps below:
 
-1. Clone the repository with `git clone https://github.com/0xabdulkhalid/tic-tac-toe` or download it as a [.zip](https://github.com/0xabdulkhalid/tic-tac-toe/archive/refs/heads/main.zip) file and extract it.
+1. Clone the repository with `git clone https://github.com/0xabdulkhaliq/tic-tac-toe` or download it as a [.zip](https://github.com/0xabdulkhaliq/tic-tac-toe/archive/refs/heads/main.zip) file and extract it.
 2. Navigate to where the repository is saved on your local machine and open up its `index.html` file on your preferred web browser.
 
 <br>
@@ -78,21 +78,27 @@ For those that would like to run the application and/or edit its source code on 
 
 ## **License**
 
-- [MIT License](https://github.com/0xabdulkhalid/tic-tac-toe/blob/main/LICENSE)
-- Copyright **©** 2023 - [0xabdulkhalid](https://github.com/0xabdulkhalid/)
+- [MIT License](https://github.com/0xabdulkhaliq/tic-tac-toe/blob/main/LICENSE)
+- Copyright **©** 2023 - [0xabdulkhaliq](https://github.com/0xabdulkhaliq/)
 
 <br>
 
-## **Contact**
+## Let's Connect 👋
 
 <div align=center>
 
-<a href="https://www.0xabdulkhalid.ml" target="_blank">
-	<img src="https://img.shields.io/badge/website-1A2B33?style=for-the-badge&logo=About.me&logoColor=CDC2BC" alt="Personal Website">
-  </a> &nbsp;&nbsp;&nbsp;
-<a href="https://linkedin.com/in/0xabdulkhalid" target="_blank">
-	<img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=Linkedin>
-</a>
+  <a href="https://linkedin.com/in/0xabdulkhaliq" >
+    <img src="https://img.shields.io/badge/linkedin%20Profile-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Profile">
+  </a>&nbsp;&nbsp;
+
+  <a href="mailto:0xabdulkhaliq@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt=mail/>
+  </a>&nbsp;&nbsp;
+
+  <a href="https://www.github.com/0xabdulkhaliq/" >
+    <img src="https://img.shields.io/badge/Github%20Profile-131313?style=for-the-badge&logo=github&logoColor=white" alt="Github Profile">
+  </a>
 
 </div>
+
 <br>
